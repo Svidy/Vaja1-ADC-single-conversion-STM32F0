@@ -13,4 +13,5 @@ Preglejte, kakšne so še ostale možne ločljivosti pretvorbe in območja vredn
 14bit, od 0 do 16383.
 
 Komentar: Na začetku nisva imela težav, ko pa sva prišla do nalaganja kode pa nama ni uspelo naložiti programa, čeprav
-sva zamenjala računalnik, sva imela isti problem z nalaganjem(Failed to connect to GDB server).
+sva zamenjala računalnik, sva imela isti problem z nalaganjem(Failed to connect to GDB server). Nata pa sva ugotovila napako
+in jo odpravila.
